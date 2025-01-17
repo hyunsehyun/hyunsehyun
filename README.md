@@ -1,5 +1,5 @@
 
-I'm interested in autonomous driving 🚗</br>
+I'm interested in autonomous driving / LiDAR / SLAM / Perception 🚗</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsehyun&layout=compact)](https://github.com/hyunsehyun)
 </br>
