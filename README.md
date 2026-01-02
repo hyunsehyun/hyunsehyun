@@ -1,5 +1,5 @@
 
-I'm interested in autonomous driving / LiDAR / SLAM / Perception 🚗</br>
+I'm interested in autonomous driving / 3D reconstruction / SLAM / Perception 🚗</br>
 
 <!--
 **kim-hyunse/kim-hyunse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
