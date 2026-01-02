@@ -1,9 +1,6 @@
 
 I'm interested in autonomous driving / LiDAR / SLAM / Perception 🚗</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsehyun&layout=compact)](https://github.com/hyunsehyun)
-</br>
-
 <!--
 **kim-hyunse/kim-hyunse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
